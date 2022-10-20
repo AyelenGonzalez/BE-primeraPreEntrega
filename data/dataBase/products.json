@@ -1,0 +1,32 @@
+[
+	{
+		"timestamp": "19/10/2022, 19:33:09",
+		"name": "timpa",
+		"description": "Bebida cola",
+		"code": "AF20",
+		"image": "",
+		"price": 500,
+		"stock": 100,
+		"id": 3
+	},
+	{
+		"timestamp": "19/10/2022, 19:33:20",
+		"name": "paloss",
+		"description": "Bebida cola",
+		"code": "AF20",
+		"image": "",
+		"price": 500,
+		"stock": 100,
+		"id": 4
+	},
+	{
+		"timestamp": "19/10/2022, 19:37:34",
+		"name": "passsloss",
+		"description": "Bebida cola",
+		"code": "AF20",
+		"image": "",
+		"price": 500,
+		"stock": 100,
+		"id": 5
+	}
+]
